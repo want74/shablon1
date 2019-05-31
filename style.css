@@ -1,0 +1,17 @@
+.One {
+	display: flex;
+}
+.block {
+	width:300px;
+	height: 500px;
+	margin-left: 110px;
+	text-align: center;
+}
+img {
+	width: 300px;
+	height: 300px
+}
+body {
+	font-family: arial;
+	font-weight: 100px
+}
